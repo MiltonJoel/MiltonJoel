@@ -1,16 +1,19 @@
-## Hi there 👋
+ 👋 Hola, soy Milton Pacheco
 
-<!--
-**MiltonJoel/MiltonJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Licenciatura en Ciencias de la Computación**  
+📧 miltonextravarus@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/milton-pacheco)
+---
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ciencias de la Computación con una **base sólida en matemática, programación y estructuras de datos**, orientado a **Data & AI y desarrollo de software backend**.
+
+Tengo experiencia práctica en **análisis de datos, machine learning y trabajo con modelos de lenguaje (LLMs)**, además de proyectos reales de visualización de datos y automatización. 
+
+---
+
+### Tech Stack
+- **Python**
+- **C**
+- **git**
