@@ -1,5 +1,5 @@
- 👋 Hola, soy Milton Pacheco
-
+ # 👋 Hola, soy Milton Pacheco
+---
 🎓 Estudiante de **Licenciatura en Ciencias de la Computación**  
 📧 miltonextravarus@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/milton-pacheco)
